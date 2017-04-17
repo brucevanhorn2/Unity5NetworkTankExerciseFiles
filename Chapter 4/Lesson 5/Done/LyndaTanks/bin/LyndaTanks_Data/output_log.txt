@@ -1,0 +1,32 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1136 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.130 seconds
+Platform assembly: C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\bvanhorn\Desktop\Exercise Files\Chapter 4\Lesson 3\Done\LyndaTanks\bin\LyndaTanks_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 5600x1500 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.067058 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6cb4 -> priority: 1 
+  Thread -> id: 16fc -> priority: 1 
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:51792}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
